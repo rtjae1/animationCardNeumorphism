@@ -35,3 +35,14 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.container {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100px;
+}
+
+.card {}
